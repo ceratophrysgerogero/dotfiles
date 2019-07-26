@@ -1,8 +1,9 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_cnt =7
 let g:netrw_dirhist_1='/Users/mannbou/.vim/bundle/Vundle.vim'
 let g:netrw_dirhist_2='/Users/mannbou/Workspace/environment/sample_app/app/views/static_pages'
 let g:netrw_dirhist_3='/Users/mannbou/Workspace/rails_turorial/sample_app2/app/views'
 let g:netrw_dirhist_4='/Users/mannbou/Workspace/rails_turorial/sample_app2/app/views/static_pages'
 let g:netrw_dirhist_5='/Users/mannbou/Workspace/rails_turorial/sample_app2/test/fixtures'
 let g:netrw_dirhist_6='/Users/mannbou/Workspace/rails_turorial/sample_app2/test/models'
+let g:netrw_dirhist_7='/Users/mannbou/Workspace/rails_turorial/sample_app2/app'
